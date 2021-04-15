@@ -1,0 +1,16 @@
+{
+  "name": "cookies-algolia",
+  "version": "1.0.0",
+  "description": "Node.js application for algolia",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Trinh Thai Binh",
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^4.8.6",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.3.2"
+  }
+}
